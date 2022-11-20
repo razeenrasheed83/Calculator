@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    height: 550px;
+    width: 500px;
+    background-color: black;
+    margin: auto;
+    border-radius: 10px;
+}
+
+#screen{
+    background-color: aliceblue;
+    height: 80px;
+    width: 450px;
+    margin: 21px;
+    text-align: right;
+    font-size:4em;
+    font-weight: bolder;
+}
+.button{
+    background-color:#919190 ;
+    color: black;
+    font-weight: bold;
+    height: 80px;
+    width: 90px;
+    margin: 12px;
+    border-radius: 10px;
+    border-color: black;
+    font-size: x-large;
+
+}
+.clear{
+    background-color: #fc3c3c;
+}
+
+.operator{
+    background-color: #ff6600;
+}
+.equal{
+    background-color: #21bf73;
+}
